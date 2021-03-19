@@ -227,9 +227,9 @@ footer{
     cursor:pointer;
 }
 #btn-form{
-	display:block;
-	margin:auto;
-	  padding: 6px 20px;
+    display:block;
+    margin:auto;
+    padding: 6px 20px;
     border: 2px solid white;
     background-color: brown;
     color: white;
